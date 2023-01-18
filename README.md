@@ -2,7 +2,7 @@
 
 This is the official implementation of "Reasoning Video-Language Tasks with Fast-Thinking Sampler and Slow-Thinking Solver". In this paper, we propose a two stage method for videoQA called VideoTST.
 
-![1674041427304](image/README/1674041427304.png)
+![Sampler](image/README/Sampler.png)
 
 ## Installation
 
